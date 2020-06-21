@@ -2,8 +2,8 @@
 Group members :
 1. Muhammad Naqiuddin Kamil bin Mohd Rahhim   17218930
 2. Nurbayani binti Halim                      17202175
-3. Zarrief Sofea Abdul Wahid                  17201280
-4. Nur Azilah Baharuddin                      17201308
+3. Zarrief Sofea binti Abdul Wahid            17201280
+4. Nur Azilah binti Baharuddin                17201308
 
 ## Introduction
 Our app is targeted for students interested in pursuing a higher education in Malaysia after SPM. Many of them are unsure of how to do so, this would be a great platform for them.

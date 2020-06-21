@@ -33,6 +33,9 @@ Based on user's selection, the Malaysia Uiversity World Ranking based on year av
 
 ## References
 https://www.easyuni.my/en/malaysia/all/all/foundationpre-u/
+https://www.easyuni.my/en/malaysia/all/all/diploma/
+https://online.moe.gov.my/upu5/epanduan/ipta/epanduanInfoAm.php?jenprog=stpm&pagefunc=epanduanInfoAm&carian1=M
+https://www.studymalaysia.com/education/top-stories/memilih-program-pra-universiti-yang-tepat-untuk-anda-program-asasi-oleh-universiti-dan-kolej-swasta
 https://www.universityrankings.ch/en/results&ranking=QS&region=World&year=2020&q=Malaysia
 https://datascienceplus.com/how-to-build-a-simple-flowchart-with-r-diagrammer-package/
 

@@ -9,33 +9,32 @@ Group members :
 Our app is targeted for students interested in pursuing a higher education in Malaysia after SPM. Many of them are unsure of how to do so, this would be a great platform for them.
 
 ## User Interface
-### TAB 1 : List of Universities
-#### Menu
-There are 2 drop-down menu, user first need to select the "Field of Study" & "Institution". 
-#### Output
-Based on user's selection, the list of universities available will be displayed. User can click on the link & will be directed to the university website.
 
-### TAB 2 : Malaysia University World Ranking
-#### Menu
-There are 3 drop-down menu, user is allowed to select the "Institution", "Country" & "Year" 
-#### Output
-Based on user's selection, the university World Ranking based on year available will be displayed in table. 
-
-### TAB 3 : Plot of Malaysia University World Ranking
-#### Menu
-Using the slider input, user is allowed to select the "Year" 
-#### Output
-Based on user's selection, the plot of university World Ranking based on year available will be displayed.
-
-### TAB 4 : Study Path Flowchart
-#### Output
-This tab illustrates the study path flow chart. User is able to make comparison on which path to take.
-
-### TAB 5 : About
+### TAB 1 : About
 #### Output
 This tab would be the documentation or the user guide for this app.
 
+### TAB 2 : Pathway Overview
+#### Output
+This tab illustrates the study path flow chart. User is able to make comparison on which path to take.
+
+### TAB 3 : List of Institutions
+#### Menu
+There are 2 drop-down menu, user first need to select the "Field of Study" & "Institution". 
+#### Output
+Based on user's selection, the list of institutions available will be displayed. User can click on the institutions name & will be linked directly to the university website.
+
+### TAB 4 : World Ranking
+#### Menu
+There are 3 drop-down menu, user is allowed to select the "Institution", "Country" & "Year" 
+#### Output
+Based on user's selection, the Malaysia Uiversity World Ranking based on year available will be displayed in table. 
+
+
 ## References
+https://www.easyuni.my/en/malaysia/all/all/foundationpre-u/
+https://www.universityrankings.ch/en/results&ranking=QS&region=World&year=2020&q=Malaysia
+https://datascienceplus.com/how-to-build-a-simple-flowchart-with-r-diagrammer-package/
 
 ## Shiny Apps link:
 

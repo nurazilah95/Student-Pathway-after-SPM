@@ -9,38 +9,32 @@ Group members :
 Our app is targeted for students interested in pursuing a higher education in Malaysia after SPM. Many of them are unsure of how to do so, this would be a great platform for them.
 
 ## User Interface
-
 ### TAB 1 : About
 #### Output
 This tab would be the documentation or the user guide for this app.
 
 ### TAB 2 : Pathway Overview
 #### Output
-This tab illustrates the study path flow chart. User is able to make comparison on which path to take.
+This tab illustrates the Study Path flow chart. User is able to make comparison on which path to take.
 
 ### TAB 3 : List of Institutions
 #### Menu
-There are 2 drop-down menu, user first need to select the "Field of Study" & "Institution". 
+There are 2 drop-down menu, user need to select the "Field of Study" & "Institution". 
 #### Output
-Based on user's selection, the list of institutions available will be displayed. User can click on the institutions name & will be linked directly to the university website.
+Based on user's selection, the list of institution available in Malaysia will be displayed. 
 
-### TAB 4 : World Ranking
+### TAB 4 : Plot of Malaysia University World Ranking
 #### Menu
-There are 3 drop-down menu, user is allowed to select the "Institution", "Country" & "Year" 
+Using the the drop-down menu, user is allowed to select the "Institution" & "Year".
 #### Output
-Based on user's selection, the Malaysia Uiversity World Ranking based on year available will be displayed in table. 
-
+Based on user's selection, the Malaysia University World Ranking will be displayed.
 
 ## References
-https://www.easyuni.my/en/malaysia/all/all/foundationpre-u/
-https://www.easyuni.my/en/malaysia/all/all/diploma/
-https://online.moe.gov.my/upu5/epanduan/ipta/epanduanInfoAm.php?jenprog=stpm&pagefunc=epanduanInfoAm&carian1=M
-https://www.universityrankings.ch/en/results&ranking=QS&region=World&year=2020&q=Malaysia
-https://datascienceplus.com/how-to-build-a-simple-flowchart-with-r-diagrammer-package/
-https://www.studymalaysia.com/education/top-stories/memilih-program-pra-universiti-yang-tepat-untuk-anda-program-asasi-oleh-universiti-dan-kolej-swasta
+- https://www.easyuni.my/en/malaysia/all/all/all-levels/
+- https://www.universityrankings.ch/en/results&ranking=QS&region=World&year=2020&q=Malaysia
 
 ## Shiny Apps link:
-
+https://nurazilah95.shinyapps.io/studypathapp/
 
 ## Rpubs presentation link:
 

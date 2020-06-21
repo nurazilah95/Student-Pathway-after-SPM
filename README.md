@@ -1,4 +1,5 @@
 # WQD7001 Principles of Data Science Group Project
+# Student Study Pathway after SPM
 Group members :
 1. Muhammad Naqiuddin Kamil bin Mohd Rahhim   17218930
 2. Nurbayani binti Halim                      17202175

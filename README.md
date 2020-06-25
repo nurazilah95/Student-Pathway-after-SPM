@@ -10,7 +10,7 @@ Group members :
 Our app is targeted for students interested in pursuing a higher education in Malaysia after SPM. Many of them are unsure of how to do so, this would be a great platform for them.
 
 ## User Interface
-### TAB 1 : About
+### TAB 1 : About U-Beginner
 #### Output
 This tab would be the documentation or the user guide for this app.
 
@@ -18,13 +18,13 @@ This tab would be the documentation or the user guide for this app.
 #### Output
 This tab illustrates the Study Path flow chart. User is able to make comparison on which path to take.
 
-### TAB 3 : List of Institutions
+### TAB 3 : Institutions Finder
 #### Menu
 There are 2 drop-down menu, user need to select the "Field of Study" & "Institution". 
 #### Output
 Based on user's selection, the list of institution available in Malaysia will be displayed. 
 
-### TAB 4 : Plot of Malaysia University World Ranking
+### TAB 4 : Malaysia University World Ranking
 #### Menu
 Using the the drop-down menu, user is allowed to select the "Institution" & "Year".
 #### Output
@@ -33,9 +33,6 @@ Based on user's selection, the Malaysia University World Ranking will be display
 ## References
 - https://www.easyuni.my/en/malaysia/all/all/all-levels/
 - https://www.universityrankings.ch/en/results&ranking=QS&region=World&year=2020&q=Malaysia
-- https://online.moe.gov.my/upu5/epanduan/ipta/epanduanInfoAm.php?jenprog=stpm&pagefunc=epanduanInfoAm&carian1=M
-- https://www.studymalaysia.com/education/top-stories/memilih-program-pra-universiti-yang-tepat-untuk-anda-program-asasi-oleh-universiti-dan-kolej-swasta
-- https://www.upuonline.com/program-diploma-ipta.jsp
 
 ## Shiny Apps link:
 https://nurazilah95.shinyapps.io/studypathapp/
